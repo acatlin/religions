@@ -1,0 +1,16 @@
+---
+title: "World Religions"
+author: "Andy Catlin"
+format: html
+editor: visual
+---
+
+# Approach
+
+## Handy forcats functions for ggplot2
+
+I was looking for a simple dataset with count data for many items to demonstrate some basic forcats functions that are useful when creating plots.
+
+## Comparing followers of world religions
+
+Source: https://en.wikipedia.org/wiki/List_of_religious_populations
